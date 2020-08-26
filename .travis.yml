@@ -6,5 +6,4 @@ script: ./build.sh
 notifications:
     email:
     #enter your email address below
-        - example@example.com
-alex.geoghagan@revature.net
+        - alex.geoghagan@revature.net
